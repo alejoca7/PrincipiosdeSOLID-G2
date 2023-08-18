@@ -1,0 +1,15 @@
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Tareas\PrincipiosdeSOLID-G2\bin\Debug\net7.0\PrincipiosdeSOLID-G2.exe
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Tareas\PrincipiosdeSOLID-G2\bin\Debug\net7.0\PrincipiosdeSOLID-G2.deps.json
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Tareas\PrincipiosdeSOLID-G2\bin\Debug\net7.0\PrincipiosdeSOLID-G2.runtimeconfig.json
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Tareas\PrincipiosdeSOLID-G2\bin\Debug\net7.0\PrincipiosdeSOLID-G2.dll
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Tareas\PrincipiosdeSOLID-G2\bin\Debug\net7.0\PrincipiosdeSOLID-G2.pdb
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Tareas\PrincipiosdeSOLID-G2\obj\Debug\net7.0\PrincipiosdeSOLID-G2.csproj.AssemblyReference.cache
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Tareas\PrincipiosdeSOLID-G2\obj\Debug\net7.0\PrincipiosdeSOLID-G2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Tareas\PrincipiosdeSOLID-G2\obj\Debug\net7.0\PrincipiosdeSOLID-G2.AssemblyInfoInputs.cache
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Tareas\PrincipiosdeSOLID-G2\obj\Debug\net7.0\PrincipiosdeSOLID-G2.AssemblyInfo.cs
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Tareas\PrincipiosdeSOLID-G2\obj\Debug\net7.0\PrincipiosdeSOLID-G2.csproj.CoreCompileInputs.cache
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Tareas\PrincipiosdeSOLID-G2\obj\Debug\net7.0\PrincipiosdeSOLID-G2.dll
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Tareas\PrincipiosdeSOLID-G2\obj\Debug\net7.0\refint\PrincipiosdeSOLID-G2.dll
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Tareas\PrincipiosdeSOLID-G2\obj\Debug\net7.0\PrincipiosdeSOLID-G2.pdb
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Tareas\PrincipiosdeSOLID-G2\obj\Debug\net7.0\PrincipiosdeSOLID-G2.genruntimeconfig.cache
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Tareas\PrincipiosdeSOLID-G2\obj\Debug\net7.0\ref\PrincipiosdeSOLID-G2.dll
